@@ -1,0 +1,13 @@
+{
+  "name": "design-strategy",
+  "description": "Strategic design thinking skill — research, discovery, user flows, information architecture, and design critique",
+  "version": "0.1.0",
+  "author": {
+    "name": "Radu Cioplea",
+    "url": "https://dxpgroup.com"
+  },
+  "homepage": "https://github.com/remete618/design-strategy",
+  "repository": "https://github.com/remete618/design-strategy",
+  "license": "MIT",
+  "keywords": ["design", "ux", "strategy", "user-research", "information-architecture", "design-critique", "user-flows", "personas"]
+}
