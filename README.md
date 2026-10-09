@@ -6,8 +6,18 @@ A Claude Code skill for strategic design thinking — user research, discovery, 
 
 ## Install
 
+Register this repo as a plugin marketplace once, then install the plugin from it:
+
 ```bash
-claude plugin add remete618/design-strategy
+claude plugin marketplace add remete618/design-strategy
+claude plugin install design-strategy@design-strategy
+```
+
+To try it without installing, point Claude Code at a local clone:
+
+```bash
+git clone https://github.com/remete618/design-strategy.git
+claude --plugin-dir ./design-strategy
 ```
 
 ## What it does
