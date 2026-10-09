@@ -1,0 +1,15 @@
+{
+  "name": "design-strategy",
+  "owner": {
+    "name": "Radu Cioplea",
+    "url": "https://github.com/remete618"
+  },
+  "description": "Marketplace for the design-strategy Claude Code plugin",
+  "plugins": [
+    {
+      "name": "design-strategy",
+      "source": ".",
+      "description": "Strategic design thinking skill: research, discovery, user flows, information architecture, and design critique"
+    }
+  ]
+}
